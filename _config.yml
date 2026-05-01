@@ -23,7 +23,7 @@ repository               : "deulgisocute/easonlocv"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.jpg"
+  avatar           : "files/Profile.jpg"
   name             : "Yi-Cheng Lo"
   pronouns         : # example: "she/her"  
   bio              : "Fourth year undergraduate student majoring Electro-Physics in NYCU. Currently an undergraduate researcher in ECDL Lab under the advision of Prof. Tsung-en Lee"
