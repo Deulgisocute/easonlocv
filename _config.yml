@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Yi-Cheng Lo (Eason Lo)"
@@ -28,21 +28,20 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Fourth year undergraduate student majoring Electro-Physics in NYCU. Currently an undergraduate researcher in ECDL Lab under the advision of Prof. Tsung-en Lee"
   location         : "Hsinchu, Taiwan"
-  employer         : "National Yang Ming Chiao Tung University"
-  uri              : # URL
+  employer         : "NYCU"
+  uri              : "https://sites.google.com/view/nycu-ecdl"
   email            : "easonlo.sc11@nycu.edu.tw" 
 
   # Academic websites
   academia         : # URL
-  Labwebsit        : "https://sites.google.com/view/nycu-ecdl"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -58,14 +57,14 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : easonlohi 
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
