@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Bandgap Engineering of Nitrogen-Doped Monolayer WSe2 Superlattice and its Application to Field Effect Transistor"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2026-05-01-nitrogen-doped-wse2
+excerpt: 'This research demonstrates that periodic nitrogen substitution in WSe2 enables monotonic bandgap modulation while preserving a clean artificial crystal structure, achieving an ON/OFF current ratio of ~10⁸ at 300 K.'
+date: 2026-05-01
+venue: 'Advanced Electronic Materials'
+slidesurl: ''
+paperurl: 'https://doi.org/10.1002/aelm.202500754'
+bibtexurl: ''
+citation: 'Yi-Cheng Lo, Liao-Jia Wang, and Yu-Chang Chen. (2026). &quot;Bandgap Engineering of Nitrogen-Doped Monolayer WSe2 Superlattice and its Application to Field Effect Transistor.&quot; <i>Advanced Electronic Materials</i>, 2026; 0:200754.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study systematically investigates the electronic structures of pristine monolayer $WSe_{2}$ and superlattices with periodic nitrogen substitution. Unlike random doping, which introduces localized in-gap impurity states, periodic substitution facilitates effective bandgap engineering by modulating the gap monotonically with dopant density. We demonstrate that 6-row and 8-row superlattice configurations achieve a balance between a stable operation range and favorable threshold voltages ($V_{g}^{OFF} \approx 0.75$ V), making them promising candidates for future FET integration.
