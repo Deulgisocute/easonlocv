@@ -14,7 +14,7 @@ Research Interests
 ======
 
 ### 1. Multi-scale Simulation and Modeling of 2D Materials
-I am interested in developing a holistic understanding of carrier transport in 2D materials (such as $WSe_2$ and $MoS_2$) by bridging the gap between atomic-level physics and macro-scale device performance:
+I am interested in developing a holistic understanding of carrier transport in 2D materials (such as WSe2 and MoS2) by bridging the gap between atomic-level physics and macro-scale device performance:
 *   **Atomic Scale:** Utilizing First-Principles calculations—Density Functional Theory (DFT) and Non-Equilibrium Green’s Function (NEGF)—to investigate electronic band structures and contact physics.
 *   **Device Scale:** Implementing subband Boltzmann Transport Equations (BTE) via Monte Carlo (MC) methods and Drift-Diffusion (DD) models to evaluate device-level characteristics and scaling limits.
 
