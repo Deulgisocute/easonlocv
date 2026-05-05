@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ site.baseurl }}/files/1. 個人完整履歷表_陽明交通大學_羅儀誠.pdf" class="btn btn--info">CV (PDF)</a>
+
 Education
 ======
 * **B.S. in Electro-Physics (4th Year)**, National Yang Ming Chiao Tung University (NYCU), Expected 2026
