@@ -7,11 +7,11 @@ author_profile: true
 
 Research Interests
 ------
-1. **Semiconductor Device Characterization:** 
-2. **Physics of 2D Transition Metal Dichalcogenides (TMDs):** 
-3. **Multi-scale Transport Modeling:**
-4. **First-Principles Calculations:** 
-5. **High-Performance Parallel Computing:**
+1. **Semiconductor Device Characterization** 
+2. **Physics of 2D Transition Metal Dichalcogenides (TMDs)** 
+3. **Multi-scale Transport Modeling**
+4. **First-Principles Calculations** 
+5. **High-Performance Parallel Computing**
 
 Research Experience
 ------
