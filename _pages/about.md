@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am **Yi-Cheng Lo (羅儀誠)**, also known as **Eason**. I am currently a fourth-year undergraduate student majoring in Electrophysics at National Yang Ming Chiao Tung University (NYCU). 
+I am **Yi-Cheng Lo (羅儀誠)**, or **Eason**. I am currently a fourth-year undergraduate student majoring in Electrophysics at National Yang Ming Chiao Tung University (NYCU). 
 
 Currently, I am an undergraduate researcher in the **Exploratory Device Compute Laboratory (ECDL)** under the supervision of **Prof. Tsung-En Lee**. My work focuses on the intersection of computational modeling and experimental characterization of next-generation semiconductor devices.
 
