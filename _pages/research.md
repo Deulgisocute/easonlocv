@@ -40,4 +40,3 @@ Work Experience / Internships
 ### Teaching Assistant | National Yang Ming Chiao Tung University (NYCU)
 *Spring 2026*
 *   **Course:** Solid State Physics
-*   Responsible for coordinating exam materials and providing technical guidance to students on crystal structures and electronic properties of solids.
