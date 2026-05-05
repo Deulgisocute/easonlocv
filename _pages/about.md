@@ -22,5 +22,5 @@ I am interested in developing a holistic understanding of carrier transport in 2
 My research aims to uncover the degradation mechanisms inherent in 2D field-effect transistors (FETs), particularly focusing on the interface between the gate stack and the Van der Waals (vdW) gap:
 *   **Measurement Techniques:** Employing characterization methods ranging from ultra-fast pulses to long-term stress durations to study Bias Temperature Instability (BTI), Hysteresis, etc.
 *   **Physical Modeling:** Combining the Non-Radiative Multi-Phonon (NMP) model with device level modeling to describe charge trapping/detrapping kinetics, providing insights for fabrication process optimization and device lifetime prediction.
-*   
+ 
 <br/><img src="{{ site.baseurl }}/images/multiscal_modeling.png" style="width: 400px; border: 1px solid #ccc;">
